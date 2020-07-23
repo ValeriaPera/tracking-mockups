@@ -1,0 +1,27 @@
+/* Color Theme Swatches in Hex */
+.Two-jellyfish-on-a-blue-background-1-hex { color: #0424D9; }
+.Two-jellyfish-on-a-blue-background-2-hex { color: #031CA6; }
+.Two-jellyfish-on-a-blue-background-3-hex { color: #03178C; }
+.Two-jellyfish-on-a-blue-background-4-hex { color: #020F59; }
+.Two-jellyfish-on-a-blue-background-5-hex { color: #3DADF2; }
+
+/* Color Theme Swatches in RGBA */
+.Two-jellyfish-on-a-blue-background-1-rgba { color: rgba(4, 36, 216, 1); }
+.Two-jellyfish-on-a-blue-background-2-rgba { color: rgba(3, 27, 165, 1); }
+.Two-jellyfish-on-a-blue-background-3-rgba { color: rgba(2, 23, 140, 1); }
+.Two-jellyfish-on-a-blue-background-4-rgba { color: rgba(1, 14, 89, 1); }
+.Two-jellyfish-on-a-blue-background-5-rgba { color: rgba(60, 172, 242, 1); }
+
+/* Color Theme Swatches in HSLA */
+.Two-jellyfish-on-a-blue-background-1-hsla { color: hsla(230, 96, 43, 1); }
+.Two-jellyfish-on-a-blue-background-2-hsla { color: hsla(230, 96, 33, 1); }
+.Two-jellyfish-on-a-blue-background-3-hsla { color: hsla(230, 96, 28, 1); }
+.Two-jellyfish-on-a-blue-background-4-hsla { color: hsla(230, 96, 17, 1); }
+.Two-jellyfish-on-a-blue-background-5-hsla { color: hsla(202, 87, 59, 1); }
+
+header {
+  background: url("./cityscapes.png") no-repeat center #0424D9;
+  background-size: cover;
+  width: 100%;
+  height: 50vh;
+}

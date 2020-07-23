@@ -1,0 +1,14 @@
+header {
+  background: url("./cityscapes.png") no-repeat center #0424D9;
+  background-size: cover;
+  width: 100%;
+  height: 50vh;
+}
+
+.primary-color {
+  color: #020F59;
+}
+
+.primary-color-bg {
+  background-color: #020F59;
+}
